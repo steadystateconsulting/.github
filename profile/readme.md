@@ -7,7 +7,7 @@
 <h1 align="center">Steady State Systems, LLC</h1>
 
 <p align="center">
-  <strong>Platform reliability, engineered with steady hands.</strong>
+  <strong>Go Slow to Go Fast</strong>
 </p>
 
 <p align="center">
@@ -17,8 +17,6 @@
 Steady State Systems, LLC is a platform engineering, reliability engineering, and technical consulting firm focused on making critical software systems more observable, operable, scalable, and safe to change.
 
 We work at the intersection of cloud infrastructure, software delivery, production operations, and legacy modernization — helping teams move from fragile complexity toward calm, intentional engineering.
-
-> The GitHub organization is published under `steadystateconsulting` because the preferred handle was unavailable. The company name remains **Steady State Systems, LLC**.
 
 ---
 
