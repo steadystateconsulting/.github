@@ -1,10 +1,24 @@
-# Steady State Systems, LLC
+<p align="center">
+  <a href="https://www.steadystatesystems.dev">
+    <img src="https://www.steadystatesystems.dev/Steady-State-Systems.png" alt="Steady State Systems, LLC logo" width="240" />
+  </a>
+</p>
 
-**Platform reliability, engineered with steady hands.**
+<h1 align="center">Steady State Systems, LLC</h1>
+
+<p align="center">
+  <strong>Platform reliability, engineered with steady hands.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.steadystatesystems.dev">steadystatesystems.dev</a> · <a href="mailto:hello@steadystatesystems.dev">hello@steadystatesystems.dev</a>
+</p>
 
 Steady State Systems, LLC is a platform engineering, reliability engineering, and technical consulting firm focused on making critical software systems more observable, operable, scalable, and safe to change.
 
 We work at the intersection of cloud infrastructure, software delivery, production operations, and legacy modernization — helping teams move from fragile complexity toward calm, intentional engineering.
+
+> The GitHub organization is published under `steadystateconsulting` because the preferred handle was unavailable. The company name remains **Steady State Systems, LLC**.
 
 ---
 
@@ -95,9 +109,10 @@ The result is the guiding idea behind the work:
 
 ## Contact
 
-For consulting inquiries, technical advisory work, or collaboration, please reach out through the official Steady State Systems contact channels.
+For consulting inquiries, technical advisory work, or collaboration, please reach out here:
 
-Website and contact details will be added here as they become available.
+* Website: [www.steadystatesystems.dev](https://www.steadystatesystems.dev)
+* Email: [hello@steadystatesystems.dev](mailto:hello@steadystatesystems.dev)
 
 ---
 
